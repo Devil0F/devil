@@ -1,0 +1,2 @@
+# devil
+all of treasure
